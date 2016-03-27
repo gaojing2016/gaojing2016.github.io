@@ -1,6 +1,7 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
-markdown: redcarpet
+#markdown: redcarpet
+markdown: kramdown
 
 # 作者信息
 author: 
@@ -13,7 +14,7 @@ author:
   linkedin: 
 
 # 站点信息
-title: gaojing2016的博客
+title: 潇潇雨蝎的博客
 description: My personal blog
 url: 
 rss_url: /pages/atom.xml
@@ -29,7 +30,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: gavin
+  shortname: Gavin
 
 # 主题设置，自动激活某个标签
 active: 读书
