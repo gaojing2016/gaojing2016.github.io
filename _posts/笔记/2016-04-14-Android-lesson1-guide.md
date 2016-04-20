@@ -11,7 +11,7 @@ description:
 Android大致可以分为四层架构，五块区域。
 
 ### 一、Android系统架构
-    ![android_layer](/public/img/android_layer.png)
+![android_layer](/public/img/android_layer.png)
 
 - 1.1 应用程序层
     - 所有安装在手机上的应用程序都是属于这一层的，比如系统自带的联系人、短信等程序。
